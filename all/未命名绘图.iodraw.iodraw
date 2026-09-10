@@ -28,7 +28,7 @@
         <mxCell id="yv5XnxTpZgcdXHuAnExz-18" value="P3：80x80" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="270" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yv5XnxTpZgcdXHuAnExz-21" value="P4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yv5XnxTpZgcdXHuAnExz-21" value="P4：40x40" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yv5XnxTpZgcdXHuAnExz-23" value="P5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
