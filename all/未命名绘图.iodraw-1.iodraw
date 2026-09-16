@@ -210,11 +210,14 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-12" value="raw logits Z&lt;sub&gt;cls&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="176.75" y="840" width="89" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="860" as="sourcePoint" />
-            <mxPoint x="380" y="810" as="targetPoint" />
+            <mxPoint x="338" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
