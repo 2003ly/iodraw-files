@@ -480,7 +480,7 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-85" value="Scale quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="1240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-88" value="quality context to (d)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="823.25" y="1300" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
