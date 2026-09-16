@@ -415,8 +415,8 @@
             <mxPoint x="940" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1140" width="95" height="20" as="geometry" />
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-72" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;frequency context H&lt;sub&gt;f&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842.5" y="1100" width="97.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
