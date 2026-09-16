@@ -459,7 +459,7 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-79" target="wsnJJOfZl-TqzwvOPXnS-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-79" value="Center residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-79" value="H&lt;sub&gt;C&lt;/sub&gt; = H + 0.10ΔH&lt;sub&gt;C&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="716" y="1190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-82" target="wsnJJOfZl-TqzwvOPXnS-85">
