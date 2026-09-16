@@ -155,7 +155,7 @@
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-51" value="&lt;b&gt;(a) M1:YOLO11m Baseline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="100" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZL81ZcsCkr6yMVeDU9kZ-43" target="ZL81ZcsCkr6yMVeDU9kZ-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="440" as="sourcePoint" />
             <mxPoint x="570" y="390" as="targetPoint" />
