@@ -47,15 +47,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="ZL81ZcsCkr6yMVeDU9kZ-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="330" as="sourcePoint" />
-            <mxPoint x="180" y="390" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="130" height="40" as="geometry" />
+          <mxGeometry x="120" y="410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
