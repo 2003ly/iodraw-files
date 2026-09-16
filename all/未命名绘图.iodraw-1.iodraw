@@ -219,6 +219,9 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;hidden feature H&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="300" y="820" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-15" target="wsnJJOfZl-TqzwvOPXnS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="45" height="100" as="geometry" />
         </mxCell>
