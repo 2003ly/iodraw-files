@@ -372,14 +372,20 @@
             <mxPoint x="820" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-52" target="wsnJJOfZl-TqzwvOPXnS-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-52" value="Low/Mid/High&lt;div&gt;band responses&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="775" y="910" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-54" target="wsnJJOfZl-TqzwvOPXnS-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-54" value="band weights" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="920" y="915" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="833" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="813.5" y="980" width="153" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
