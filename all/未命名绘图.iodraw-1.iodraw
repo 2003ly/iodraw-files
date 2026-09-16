@@ -170,10 +170,10 @@
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-55" value="&lt;b&gt;P2 feature&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="295" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZL81ZcsCkr6yMVeDU9kZ-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="910" as="sourcePoint" />
-            <mxPoint x="410" y="860" as="targetPoint" />
+            <mxPoint x="140" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
