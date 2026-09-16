@@ -352,10 +352,10 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-44" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="840" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="960" as="sourcePoint" />
-            <mxPoint x="930" y="910" as="targetPoint" />
+            <mxPoint x="880" y="860" as="sourcePoint" />
+            <mxPoint x="925" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
