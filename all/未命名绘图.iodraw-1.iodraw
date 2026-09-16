@@ -22,7 +22,7 @@
             <mxPoint x="140" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-6" value="P2-P5 PAN-FPN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="250" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
