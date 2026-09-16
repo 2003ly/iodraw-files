@@ -440,16 +440,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="611.2929411764708" y="1380" as="sourcePoint" />
-            <mxPoint x="699.94" y="1420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="610.94" y="1390" />
-              <mxPoint x="699.94" y="1390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-77" value="J=Concat[H,H&lt;sub&gt;f&lt;/sub&gt;]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="836.25" y="1130" width="110" height="20" as="geometry" />
         </mxCell>
