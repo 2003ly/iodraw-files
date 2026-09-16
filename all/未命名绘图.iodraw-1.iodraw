@@ -497,6 +497,9 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-97" value="&lt;span class=&quot;mord&quot;&gt;Δ&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;H&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;sub&gt;&lt;span class=&quot;pstrut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;/sub&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​=f&lt;sub&gt;C&lt;/sub&gt;(J)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1200" width="85" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-98" value="&lt;span class=&quot;mord&quot;&gt;Δ&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;H&lt;sub&gt;S&lt;/sub&gt;&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist-s&quot;&gt;​=f&lt;sub&gt;S&lt;/sub&gt;(J)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1290" width="85" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
