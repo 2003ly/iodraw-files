@@ -273,8 +273,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-28" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="208" y="990" width="80" height="80" as="geometry" />
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="261" y="980" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
