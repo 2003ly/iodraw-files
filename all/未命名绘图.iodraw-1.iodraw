@@ -508,8 +508,8 @@
             <mxPoint x="1200" y="1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="554" width="50" height="30" as="geometry" />
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-103" value="(d)&lt;font style=&quot;white-space: normal; font-size: 14px;&quot;&gt;P2+A3-Cal &lt;/font&gt;&lt;span style=&quot;white-space: normal; background-color: initial; font-size: 14px;&quot;&gt;Detection&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal; background-color: initial; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="544" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
