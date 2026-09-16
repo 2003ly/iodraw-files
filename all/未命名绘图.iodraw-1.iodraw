@@ -330,8 +330,8 @@
             <mxPoint x="885" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-42" value="H&lt;sub&gt;g&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="832.5" y="810" width="105" height="40" as="geometry" />
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-42" value="H&lt;sub&gt;g&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="810" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
