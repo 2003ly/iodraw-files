@@ -465,8 +465,11 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-79" value="Center residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="716" y="1190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-82" value="Center residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-82" value="Scale residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="1190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-84" value="Center residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="726" y="1200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
