@@ -395,7 +395,7 @@
           <mxGeometry x="920" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-59" value="positive spectral gain A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="814.75" y="970" width="153" height="40" as="geometry" />
+          <mxGeometry x="814.75" y="970" width="153" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-64" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;phase-preserving modulation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="815" y="1030" width="150" height="30" as="geometry" />
