@@ -394,17 +394,11 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-54" value="band weights" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="920" y="920" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-59" target="wsnJJOfZl-TqzwvOPXnS-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-59" value="positive spectral gain A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="813.5" y="980" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-64" value="phase-preserving" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-64" value="phase-preserving modulation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="830" y="1030" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-65" value="positive spectral gain A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="813.5" y="1070" width="153" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
