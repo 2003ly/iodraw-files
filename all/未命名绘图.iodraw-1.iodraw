@@ -186,7 +186,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wsnJJOfZl-TqzwvOPXnS-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337.3" y="750" as="sourcePoint" />
             <mxPoint x="337.3" y="790" as="targetPoint" />
@@ -209,6 +209,12 @@
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-12" value="raw logits Z&lt;sub&gt;cls&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="176.75" y="840" width="89" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="860" as="sourcePoint" />
+            <mxPoint x="380" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
