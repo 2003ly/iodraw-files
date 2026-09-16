@@ -489,6 +489,9 @@
             <mxPoint x="894" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-96" value="(e) Phase-Band Router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="775" y="638" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
