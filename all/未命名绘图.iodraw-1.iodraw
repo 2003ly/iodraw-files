@@ -465,33 +465,14 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-82" target="wsnJJOfZl-TqzwvOPXnS-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-82" value="Scale residual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-82" value="H&lt;sub&gt;S&lt;/sub&gt; = H + 0.05ΔH&lt;sub&gt;S&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="1190" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-84" target="wsnJJOfZl-TqzwvOPXnS-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="776" y="1290" />
-              <mxPoint x="891" y="1290" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-84" value="Center quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="716" y="1240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-85" target="wsnJJOfZl-TqzwvOPXnS-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="980" y="1290" />
-              <mxPoint x="891" y="1290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-85" value="Scale quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="1240" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-88" value="quality context to (d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="823.25" y="1300" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-91" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Upsample x 2+1x1 Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="822.75" y="1070" width="140" height="20" as="geometry" />
