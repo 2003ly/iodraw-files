@@ -375,8 +375,8 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-52" value="Low/Mid/High&lt;div&gt;band responses&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="775" y="910" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="950" width="80" height="30" as="geometry" />
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-54" value="band weights" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="920" y="915" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
