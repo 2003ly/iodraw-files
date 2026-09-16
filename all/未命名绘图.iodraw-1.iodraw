@@ -16,11 +16,14 @@
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-3" value="YOLO11m Backbone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="190" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZL81ZcsCkr6yMVeDU9kZ-3">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZL81ZcsCkr6yMVeDU9kZ-3" target="ZL81ZcsCkr6yMVeDU9kZ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="300" as="sourcePoint" />
             <mxPoint x="140" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="245" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
