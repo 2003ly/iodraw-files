@@ -264,10 +264,10 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-26" value="log G" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="950" width="78" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.448;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="900" as="sourcePoint" />
-            <mxPoint x="410" y="850" as="targetPoint" />
+            <mxPoint x="217" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
