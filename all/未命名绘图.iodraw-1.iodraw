@@ -255,11 +255,14 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-24" value="&lt;div&gt;Q = σ(C) × σ(S)&lt;/div&gt;&lt;div&gt;G = 0.65 + 0.35Q&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="910" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="1000" as="sourcePoint" />
-            <mxPoint x="410" y="950" as="targetPoint" />
+            <mxPoint x="348" y="950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
