@@ -460,7 +460,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-79" value="H&lt;sub&gt;C&lt;/sub&gt; = H + 0.10ΔH&lt;sub&gt;C&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="716.25" y="1230" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.25" y="1240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-82" target="wsnJJOfZl-TqzwvOPXnS-85">
           <mxGeometry relative="1" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry x="920" y="1190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-84" value="to Center head in (d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="716" y="1270" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.25" y="1290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-85" value="to Scale head in (d)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="920" y="1240" width="120" height="30" as="geometry" />
