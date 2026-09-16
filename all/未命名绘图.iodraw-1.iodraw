@@ -440,7 +440,7 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-77" value="Concat[H,H&lt;sub&gt;f&lt;/sub&gt;]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="835" y="1130" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="1090" as="sourcePoint" />
             <mxPoint x="1100" y="1040" as="targetPoint" />
