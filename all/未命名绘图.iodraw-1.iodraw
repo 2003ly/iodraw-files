@@ -13,7 +13,7 @@
             <mxPoint x="140" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-3" value="YOLO11m Backbone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;YOLO11m Backbone&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="190" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZL81ZcsCkr6yMVeDU9kZ-3">
@@ -22,7 +22,7 @@
             <mxPoint x="140" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-6" value="P2-P5 PAN-FPN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;P2-P5 PAN-FPN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="250" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
