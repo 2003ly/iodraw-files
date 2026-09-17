@@ -321,10 +321,10 @@
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-40" value="Phase-Band Router&lt;div&gt;adaptive band routing&lt;/div&gt;&lt;div&gt;+ phase-preserving modulation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1627.5" y="250" width="195" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="wsnJJOfZl-TqzwvOPXnS-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wsnJJOfZl-TqzwvOPXnS-40" edge="1" target="wsnJJOfZl-TqzwvOPXnS-42">
+        <mxCell id="wsnJJOfZl-TqzwvOPXnS-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wsnJJOfZl-TqzwvOPXnS-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1800" y="438" as="sourcePoint" />
-            <mxPoint x="1730" y="370" as="targetPoint" />
+            <mxPoint x="1730" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-42" value="Frequency context H&lt;sub&gt;f&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
