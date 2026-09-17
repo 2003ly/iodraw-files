@@ -334,11 +334,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1676.25" y="648" as="sourcePoint" />
             <mxPoint x="1640" y="210.12" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1610" y="648" />
-              <mxPoint x="1550" y="648" />
-              <mxPoint x="1550" y="208" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wsnJJOfZl-TqzwvOPXnS-76" value="identity&lt;div&gt;bypass&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
