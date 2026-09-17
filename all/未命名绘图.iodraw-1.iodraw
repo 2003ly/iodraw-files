@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Eml0-DKk0KHVRLwYS7oF">
-    <mxGraphModel dx="1066" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-16" value="&lt;b&gt;(a) M2:&lt;code style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;P&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;BR-CalYOLO&lt;/font&gt;&lt;/code&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="250" width="140" height="30" as="geometry" />
+        <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-16" value="&lt;b&gt;(a) &lt;code style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;P&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;BR-CalYOLO&lt;/font&gt;&lt;/code&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZL81ZcsCkr6yMVeDU9kZ-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Input Image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="300" width="120" height="40" as="geometry" />
