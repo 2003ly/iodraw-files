@@ -355,8 +355,8 @@
         <mxCell id="2Ka48AzJzTpSfR8uBRh5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wsnJJOfZl-TqzwvOPXnS-42" target="2Ka48AzJzTpSfR8uBRh5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Ka48AzJzTpSfR8uBRh5-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1681" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="2Ka48AzJzTpSfR8uBRh5-4" value="Center/Scale quality residuals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1657.5" y="455" width="171" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
